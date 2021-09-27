@@ -6,7 +6,7 @@
 
 <p align="center">Aspirante a desenvolvedor Full Stack, pelo projeto do Instituto Alpha Lumen, <a href="https://sejaalphaedtech.org.br">AlphaEdTech</a></p></br>
 
-
+```javascript
 const lgustavorcaldas = {
   pronouns: "He" | "him",
   code: [Javascript, HTML, CSS],
@@ -18,3 +18,4 @@ const lgustavorcaldas = {
   funFact: "Eu tenho bugs de pet"
 
 }
+```
