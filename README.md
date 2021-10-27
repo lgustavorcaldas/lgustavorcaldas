@@ -8,7 +8,7 @@
 
 ```javascript
 const lgustavorcaldas = {
-  pronouns: "He" | "him",
+  pronouns: "He" | "his",
   code: [Javascript, HTML, CSS],
   tools: [React, Node, Styled-Components, Jest],
   techCommunities: {
