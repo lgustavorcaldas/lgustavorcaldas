@@ -14,8 +14,7 @@ const lgustavorcaldas = {
   techCommunities: {
                         aspirante: "Alpha Edtech",
                         mentor: "Luana Lessa"
-                      },
-  funFact: "Eu tenho bugs de pet"
+                      }
 
 }
 ```
