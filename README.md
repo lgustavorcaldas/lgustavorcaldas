@@ -7,14 +7,14 @@
 <p align="center">Aspirante a desenvolvedor Full Stack, pelo projeto do Instituto Alpha Lumen, <a href="https://sejaalphaedtech.org.br">AlphaEdTech</a></p></br>
 
 ```javascript
-const lgustavorcaldas = {
-  pronouns: "He" | "his",
+const lgustavorcaldas = 
   code: [Javascript, HTML, CSS],
   tools: [React, Node, Styled-Components, Jest],
   techCommunities: {
                         aspirante: "Alpha Edtech",
                         mentor: "Luana Lessa"
-                      }
+                      },
+  hobby: "Dungeons & Dragons"
 
 }
 ```
